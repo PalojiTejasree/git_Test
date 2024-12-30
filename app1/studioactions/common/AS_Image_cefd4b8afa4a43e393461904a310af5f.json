@@ -1,0 +1,45 @@
+{
+    "AS_Image_cefd4b8afa4a43e393461904a310af5f": {
+        "id": "AS_Image_cefd4b8afa4a43e393461904a310af5f",
+        "type": "ACTION_SEQUENCE",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            },
+            {
+                "datatype": "string",
+                "name": "x"
+            },
+            {
+                "datatype": "string",
+                "name": "y"
+            }
+        ],
+        "contextObj": {
+            "name": "uwuf22e25c61fc428682c549716dfda927",
+            "type": "userwidgets",
+            "KUID": "u8d1db0d9dfb47aab24aede35f5c9efe"
+        },
+        "language": "js",
+        "actions": [
+            {
+                "id": "SET_FORM_WIDGET_PROPERTY_Untitled__e3fb272ac2404922856cacda3a256bdb",
+                "type": "SET_WIDGET_PROPERTY",
+                "itemType": "COMPONENT",
+                "itemId": "com.konymp.Login",
+                "widgetId": "flxError",
+                "propertyName": "isVisible",
+                "propertyValue": "false",
+                "itemKUID": "u8d1db0d9dfb47aab24aede35f5c9efe",
+                "widgetKUID": "ub24d880f55b47818707a097ebc823ce",
+                "isSkinProperty": false,
+                "wType": "FlexContainer",
+                "forkedPlatform": "all",
+                "parentId": null,
+                "callbackType": null,
+                "widgetPath": "this.view.flxError"
+            }
+        ]
+    }
+}

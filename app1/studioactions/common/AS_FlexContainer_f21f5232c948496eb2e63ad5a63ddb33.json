@@ -1,0 +1,27 @@
+{
+    "AS_FlexContainer_f21f5232c948496eb2e63ad5a63ddb33": {
+        "id": "AS_FlexContainer_f21f5232c948496eb2e63ad5a63ddb33",
+        "type": "ACTION_SEQUENCE",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            }
+        ],
+        "contextObj": {
+            "KUID": "u8d1db0d9dfb47aab24aede35f5c9efe",
+            "name": "uwuf22e25c61fc428682c549716dfda927",
+            "type": "userwidgets"
+        },
+        "language": "js",
+        "actions": [
+            {
+                "id": "ADD_SNIPPET__e9c35aa4242d48d39dc18cc753790a00",
+                "type": "ADD_SNIPPET",
+                "codeSnippet": "this.view.imgCHeckBox.isVisible = !this.view.imgCHeckBox.isVisible; ",
+                "parentId": null,
+                "callbackType": null
+            }
+        ]
+    }
+}
