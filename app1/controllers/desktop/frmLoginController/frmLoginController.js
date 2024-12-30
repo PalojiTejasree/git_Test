@@ -1,6 +1,6 @@
 define({ 
 
- add: function()
+ welcome: function()
   {
     voltmx.print("Helllo");
   }
